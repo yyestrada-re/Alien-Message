@@ -1,5 +1,5 @@
 import java.util.*;
-public class Lesson_20_Activity {
+public class LatitudeAndLongitude {
 	public static void main(String[] args) {
 		Scanner run = new Scanner(System.in);
 		double north = 0, south = 0, east = 0, west = 0, checkLat = 0, checkLong = 0, farN = 0, farS = 0, farE = 0, farW = 0;
